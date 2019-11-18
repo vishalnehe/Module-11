@@ -1,0 +1,25 @@
+.col-sm{
+    padding-top: 20px;
+    padding-left: 30px;
+  }
+  .navbar{
+    margin: 40px;
+  }
+  .navbar-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  .list-group-item{
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+  }
+  .col-8 h4{
+    text-align: center;
+  }
+  .row{
+      margin: 20px;
+  }
